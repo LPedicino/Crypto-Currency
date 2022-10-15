@@ -11,6 +11,7 @@ const NavBar = () => {
         <h1>
           {" "}
           Crypto <span className="purple">Search</span>
+          <p>Click to load</p>
         </h1>
       </div>
     </Link>
