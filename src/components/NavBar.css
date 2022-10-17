@@ -2,10 +2,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
 }
 
 .icon {
-    font-size: 2.rem;
+    font-size: 2rem;
     color: goldenrod;
 }
 
@@ -13,6 +14,6 @@
     color: goldenrod;
 }
 
-.navbar h1 p {
-    font-size: 1rem;
+span {
+    font-size: 1.8rem;
 }
