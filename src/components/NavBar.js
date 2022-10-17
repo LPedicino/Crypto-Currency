@@ -5,12 +5,13 @@ import "./NavBar.css";
 
 const NavBar = () => {
   return (
-    <Link to="/Crypto-Currency">
+    <Link to="/">
       <div className="navbar">
         <FaCoins className="icon" />
         <h1>
           {" "}
-          Crypto <br /> <span className="purple">Search</span>
+          Crypto <span className="purple">Search</span>
+          <p>Click to start</p>
         </h1>
       </div>
     </Link>
